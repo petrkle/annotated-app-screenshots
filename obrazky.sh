@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for foo in hlasy-ptaku/*.png
+for foo in */*.png
 do
 	./img.sh $foo
 done
