@@ -1,0 +1,15 @@
+mobil01.png:Zvukové nahrávky 184\nptáků z české přírody
+mobil02.png:Obrázky a podrobný\npopis opeřenců
+mobil03.png:Funguje bez připojení\nk internetu
+mobil04.png:Velmi kvalitní nahrávky
+mobil05.png:Vzniklo za podpory\nČeského rozhlasu
+tablet1001.png:Zvukové nahrávky 184\nptáků z české přírody
+tablet1002.png:Obrázky a podrobný popis opeřenců
+tablet1003.png:Funguje bez připojení k internetu
+tablet1004.png:Velmi kvalitní nahrávky
+tablet1005.png:Vzniklo za podpory Českého rozhlasu
+tablet701.png:Zvukové nahrávky 184\nptáků z české přírody
+tablet702.png:Obrázky a podrobný popis opeřenců
+tablet703.png:Funguje bez připojení k internetu
+tablet704.png:Velmi kvalitní nahrávky
+tablet705.png:Vzniklo za podpory Českého rozhlasu

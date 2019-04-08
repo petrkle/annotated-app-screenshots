@@ -1,0 +1,15 @@
+mobil01.png:Zvukové nahrávky\n50 zvířat
+mobil02.png:Podrobný popis
+mobil03.png:Detailní obrázky
+mobil04.png:Zvířata z\nčeské přírody
+mobil05.png:Vzniklo s podporou\nČeského rozhlasu
+tablet1001.png:Zvukové nahrávky 50 zvířat
+tablet1002.png:Podrobný popis a detailní obrázky
+tablet1003.png:Jednoduché vyhledávání
+tablet1004.png:Kvalitní zvukové nahrávky
+tablet1005.png:Vzniklo s podporou Českého rozhlasu
+tablet701.png:Zvukové nahrávky\n50 zvířat
+tablet702.png:Detailní obrázky
+tablet703.png:Vyhledávání podle názvu
+tablet704.png:Vzniklo s podporou\nČeského rozhlasu
+tablet705.png:Vzniklo s podporou\nČeského rozhlasu

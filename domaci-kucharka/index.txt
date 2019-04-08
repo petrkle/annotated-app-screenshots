@@ -1,0 +1,13 @@
+mobil01.png:Pojednání o masitých\na postních pokrmech
+mobil02.png:Pro dcerky české\na moravské
+mobil03.png:Záložky pro oblíbené\nrecepty
+mobil04.png:Přes 1000 receptů
+mobil05.png:I pouhá začátečnice\nvšemu snadno porozumí
+mobil06.png:Vyhledávání receptů
+mobil07.png:Recepty Magdaleny\nDobromily Rettigové
+mobil08.png:Současné míry a váhy
+tablet1001.png:Pojednání o masitých a postních pokrmech\npro dcerky české a moravské
+tablet1002.png:I začátečnice zdravým rozmyslem nadaná,\nbez další porady všemu snadno porozumí
+tablet1003.png:Snadné vyhledávání receptů
+tablet1004.png:Současné míry a váhy
+tablet1005.png:Přes 1000 receptů\nMagdaleny Dobromily Rettigové

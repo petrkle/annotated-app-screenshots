@@ -31,18 +31,17 @@ if [[ ${APP} =~ /tablet10 ]] ; then
 	TEXTGEOMETRY="+0+200"
 fi
 
-TEXTFILE=`echo ${APP} | sed "s/${IMGFORMAT}/.txt/"`
-TEXT="`cat ${TEXTFILE}`"
+APPDIR=`dirname ${APP}`
+IMG=`basename ${APP} ${IMGFORMAT}`
+
+TEXT="`grep \"${IMG}${IMGFORMAT}:\" ${APPDIR}/index.txt | cut -d: -f2`"
 
 LINES=`echo -e "${TEXT}" | wc -l`
 
 [ $LINES -gt 1 ] && FROMTOP=30 || FROMTOP=60
 
-IMG=`basename ${APP} ${IMGFORMAT}`
 
-OUTDIR=`dirname ${APP}`
-
-[ -d $OUT/$OUTDIR ] || mkdir -p $OUT/$OUTDIR
+[ -d $OUT/$APPDIR ] || mkdir -p $OUT/$APPDIR
 
 convert -size ${OUT_W}x${OUT_H} xc:'#eee' \
 	-font Roboto-Medium \
@@ -66,6 +65,6 @@ convert text.png \
 	-geometry ${TEXTGEOMETRY} \
 	-composite \
 	-resize ${OUT_W}x${OUT_H} \
-	${OUT}/${OUTDIR}/${IMG}${IMGFORMAT}
+	${OUT}/${APPDIR}/${IMG}${IMGFORMAT}
 
 rm text.png screenshot.png

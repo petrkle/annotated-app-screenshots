@@ -1,0 +1,8 @@
+mobil01.png:Jednoduché ovládání
+mobil02.png:Bez reklam
+mobil03.png:Rychlé učení
+mobil04.png:3000 základních\nslovíček
+tablet1001.png:Jednoduché ovládání
+tablet1002.png:Bez reklam
+tablet1003.png:Rychlé učení
+tablet1004.png:3000 základních slovíček

@@ -1,0 +1,21 @@
+mobil01.png:Obrázky a popis\n645 květin a bylin
+mobil02.png:Vyhledávání podle\nčeského a lat. názvu
+mobil03.png:Ilustrace\nKvětoslava Híska
+mobil04.png:Ilustrace\nKvětoslava Híska
+mobil05.png:Ilustrace\nKvětoslava Híska
+mobil06.png:Ilustrace\nKvětoslava Híska
+mobil07.png:Vzniklo s podporou\nČeského rozhlasu
+tablet1001.png:Obrázky a popis 645 květin a bylin
+tablet1002.png:Vyhledávání podle českého a latinského názvu
+tablet1003.png:Ilustrace Květoslava Híska
+tablet1004.png:Ilustrace Květoslava Híska
+tablet1005.png:Ilustrace Květoslava Híska
+tablet1006.png:Ilustrace Květoslava Híska
+tablet1007.png:Vzniklo s podporou Českého rozhlasu
+tablet701.png:Obrázky a popis\n645 květin a bylin
+tablet702.png:Vyhledávání podle\nčeského a latinského názvu
+tablet703.png:Ilustrace Květoslava Híska
+tablet704.png:Ilustrace Květoslava Híska
+tablet705.png:Ilustrace Květoslava Híska
+tablet706.png:Ilustrace Květoslava Híska
+tablet707.png:Vzniklo s podporou\nČeského rozhlasu
