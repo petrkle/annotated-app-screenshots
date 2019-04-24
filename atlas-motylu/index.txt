@@ -1,0 +1,6 @@
+mobil01.png:Obrázky a popis\n170 motýlů
+mobil02.png:Detailní obrázky
+mobil03.png:Podrobný popis
+mobil04.png:Mapy rozšíření
+mobil05.png:Vyhledávání podle\nčeského i lat. názvu
+mobil06.png:www.lepidoptera.cz
