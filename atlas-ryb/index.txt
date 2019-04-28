@@ -1,0 +1,7 @@
+mobil01.png:70 sladkovodních\nryb
+mobil02.png:Podrobný popis
+mobil03.png:Vyhledávání podle\nnázvu
+mobil04.png:750 kvalitních\nobrázků
+mobil05.png:Rozlišovací znaky
+mobil06.png:Čeledi a rody
+mobil07.png:www.chytej.cz
