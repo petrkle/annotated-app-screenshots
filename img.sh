@@ -43,6 +43,8 @@ LINES=`echo -e "${TEXT}" | wc -l`
 
 [ -d $OUT/$APPDIR ] || mkdir -p $OUT/$APPDIR
 
+[ -f ${OUT}/${APPDIR}/${IMG}${IMGFORMAT} ] && exit 0
+
 convert -size ${OUT_W}x${OUT_H} xc:'#eee' \
 	-font Roboto-Medium \
 	-pointsize 60 \
