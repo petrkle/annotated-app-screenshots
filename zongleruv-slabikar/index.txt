@@ -2,5 +2,11 @@ mobil01.png:Obrázková učebnice\nžonglování
 mobil02.png:Základní i pokročilé\ntriky s míčky
 mobil03.png:Animace žonglování
 mobil04.png:Návody pro\nvíce žonglérů
+tablet701.png:Obrázková učebnice žonglování
+tablet702.png:Základní i pokročilé triky s míčky
+tablet703.png:Animace žonglování
+tablet704.png:Návody pro více žonglérů
 tablet1001.png:Obrázková učebnice žonglování
-tablet1002.png:Návody pro míčky, kruhy a kužely
+tablet1002.png:Základní i pokročilé triky s míčky
+tablet1003.png:Animace žonglování
+tablet1004.png:Návody pro více žonglérů
