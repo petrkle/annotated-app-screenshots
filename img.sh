@@ -53,6 +53,7 @@ convert -size ${OUT_W}x${OUT_H} xc:'#eee' \
 	-stroke none \
 	-annotate +0+${FROMTOP} \
 	"${TEXT}" \
+	-colorspace sRGB -type truecolor \
 	text.png
 
 convert ${DEVICE} \
